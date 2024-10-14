@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586364320432.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2714704203",
+    "id" : "2AC51EE1",
+    "lastKnownWriteTime" : 1586367658,
+    "last_content_update" : 1586367658507,
+    "path" : "~/Desktop/Research/Coronavirus Epidemic/Coronavirus/Coronavirus_worldwide.R",
+    "project_path" : "Coronavirus_worldwide.R",
+    "properties" : {
+        "cursorPosition" : "15,38",
+        "scrollLine" : "8",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
